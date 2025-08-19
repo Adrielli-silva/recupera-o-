@@ -2,46 +2,83 @@
 <html lang="pt-BR">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width,intitial-scale=1.0">
-<title>Educalflix</title>
-<style>
-body {
-  margin: 0;
-  font-family: Arial, sans-serif;
-  background-color: #000033;
-  color: white;
-  }
-header {
-  background-coloro: navy;
-  padding: 20px
-  text-align: center;
-  font-size: 2em;
-  font-weight: bold;
-  }
-.banner {
-  background-color: darked;
-  padding: 20px;
-  display: flex;
-  align-items: center;
-  justify-content: space-around;
-  }
-.banner h2 {
-  color:cyan
-  font-size: 1.8em;
-  }
-.videos {
-  background-color: navy;
-  padding: 20px
-  }
-.video-grid {
-  display: flex;
-  gap: 15px
-  flex-wrap: wrap;
-  }
-.video-grid iframe {
-  border: none;
-  }
-<style>
+<meta name="viewport"
+
+content="width=device-width, initial-
+scale=1.0">
+
+    <title>EducaFlix</title>
+
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background-color: #000033;
+            color: white;
+        }
+
+        header {
+            background-color: navy;
+            padding: 20px;
+            text-align: center;
+            font-size: 2em;
+            font-weight: bold;
+        }
+
+        banner {
+            background-color: darkred;
+            padding: 20px;
+            display: flex;
+            align-items: center;
+            justify-content: space-around;
+        }
+
+        banner h2 {
+            color: cyan;
+            font-size: 1.8em;
+        }
+
+        .videos {
+            background-color: navy;
+            padding: 20px;
+        }
+
+        .video-grid {
+            display: flex;
+            gap: 15px;
+            flex-wrap: wrap;
+        }
+
+        .video-grid iframe {
+            border: none;
+        }
+    </style>
 </head>
 <body>
+    <header>
+        EducaFlix 🎬
+    </header>
 
+    <section class="banner">
+        <div>
+            <h2>O Melhor Conteúdo de Matemática</h2>
+            <p>#matematica #aprendizado</p>
+        </div>
+        <div>
+            <iframe width="400" height="225"
+                src="https://www.youtube.com/watch?v=th5k6bzSDTA&t=24s"
+                title="Vídeo Principal" allowfullscreen></iframe>
+        </div>
+    </section>
+
+    <section class="videos">
+        <h2>Vídeos Recomendados</h2>
+        <div class="video-grid">
+            <iframe width="250" height="140" src="https://www.youtube.com/watch?v=oQtjuoApc7c" title="Vídeo 1"></iframe>
+            <iframe width="250" height="140" src="https://www.youtube.com/watch?v=P_oB6jR8LiQ" title="Vídeo 2"></iframe>
+            <iframe width="250" height="140" src="https://www.youtube.com/watch?v=k3nn04tnInA" title="Vídeo 3"></iframe>
+            <iframe width="250" height="140" src="https://www.youtube.com/watch?v=ZtIQC8xKE5Y" title="Vídeo 4"></iframe>
+        </div>
+    </section>
+</body>
+</html>
