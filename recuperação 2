@@ -74,10 +74,14 @@ scale=1.0">
     <section class="videos">
         <h2>Vídeos Recomendados</h2>
         <div class="video-grid">
-            <iframe width="250" height="140" src="https://www.youtube.com/watch?v=oQtjuoApc7c" title="Vídeo 1"></iframe>
-            <iframe width="250" height="140" src="https://www.youtube.com/watch?v=P_oB6jR8LiQ" title="Vídeo 2"></iframe>
-            <iframe width="250" height="140" src="https://www.youtube.com/watch?v=k3nn04tnInA" title="Vídeo 3"></iframe>
-            <iframe width="250" height="140" src="https://www.youtube.com/watch?v=ZtIQC8xKE5Y" title="Vídeo 4"></iframe>
+            <iframe width="250" height="140"
+src="https://www.youtube.com/watch?v=oQtjuoApc7c" title="Vídeo 1"></iframe>
+            <iframe width="250" height="140" 
+src="https://www.youtube.com/watch?v=P_oB6jR8LiQ" title="Vídeo 2"></iframe>
+            <iframe width="250" height="140" 
+src="https://www.youtube.com/watch?v=k3nn04tnInA" title="Vídeo 3"></iframe>
+            <iframe width="250" height="140" 
+src="https://www.youtube.com/watch?v=ZtIQC8xKE5Y" title="Vídeo 4"></iframe>
         </div>
     </section>
 </body>
