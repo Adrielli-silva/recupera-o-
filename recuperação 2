@@ -7,18 +7,18 @@
 content="width=device-width, initial-
 scale=1.0">
 
-    <title>EducaFlix</title>
+    <title>Geometria</title>
 
     <style>
         body {
             margin: 0;
             font-family: Arial, sans-serif;
-            background-color: #000033;
+            background-color: #1c1cf1;
             color: white;
         }
 
         header {
-            background-color: navy;
+            background-color: rgb(169, 169, 230);
             padding: 20px;
             text-align: center;
             font-size: 2em;
@@ -26,7 +26,7 @@ scale=1.0">
         }
 
         banner {
-            background-color: darkred;
+            background-color: rgb(95, 30, 245);
             padding: 20px;
             display: flex;
             align-items: center;
@@ -39,7 +39,7 @@ scale=1.0">
         }
 
         .videos {
-            background-color: navy;
+            background-color: rgb(233, 26, 222);
             padding: 20px;
         }
 
