@@ -50,16 +50,16 @@
         EducaFlix 
     </heder>
 
-        <session class="banner">
+        <section class="banner">
             <div>
                  <h2>O Melhor Conteúdo de Matemática</h2>
                  <p>#matematica #aprendizado</p>
              </div>
             <iframe width="560" height="315" src="https://www.youtube.com/watch?v=th5k6bzSDTA&t=24s"
              title="Vídeo Principal" frameborder="0" allowfullscreen></iframe>
-    </session>
+    </section>
 
-    <session class="videos">
+    <section> class="videos">
         <h2>Vídeos Recomendados</h2>
         <div class="video-grid">
             <iframe width="250" height="140" src="https://www.youtube.com/embed/oQtjuoApc7c?si=leItqfiVOKRhgBuM"
