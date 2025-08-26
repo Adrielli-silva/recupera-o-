@@ -2,14 +2,9 @@
 <html lang="pt-BR">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport"
-
-content="width=device-width, initial-
-scale=1.0">
-
+<meta name="viewport"content="width=device-width, initial-scale=1.0">
     <title>Geometria</title>
-
-    <style>
+</head>
         body {
             margin: 0;
             font-family: Arial, sans-serif;
