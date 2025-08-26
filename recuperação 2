@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="pt-BR">
 
@@ -73,5 +74,17 @@
 
         </div>
     </session>
+    <h1>Geometria</h1>
+    <p>A Geometria estuda as formas, tamanhos e posições dos objetos no espaço, analisando pontos, retas, planos e sólidos.</p>
+    <p>Ela é muito utilizada em matemática para modelar fenômenos do mundo real e resolver problemas do dia a dia em áreas como engenharia, arquitetura e design.</p>
+    <p>Podemos representar conceitos geométricos por meio de figuras, tabelas, gráficos e fórmulas.</p>
+
+    <img
+        src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.matematicaefacil.com.br%2F2015%2F11%2Fvamos-iniciar-estudos-geometria.
+        html&psig=AOvVaw1iB9ivWe0CK8_HxCf7_reo&ust=1756303944524000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIDy65nUqI8DFQAAAAAdAAAAABAE"
+        alt="Figuras geométricas básicas" width="400">
+
+    <iframe width="560" height="315" src="https://www.youtube.com/watch?v=th5k6bzSDTA"
+        title="Vídeo sobre geometria" frameborder="0" allowfullscreen></iframe>
 </body>
 </html>
