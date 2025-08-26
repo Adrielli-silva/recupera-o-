@@ -25,17 +25,14 @@
             align-items: center;
             justify-content: space-around;
         }
-
         .banner h2 {
             color: cyan;
             font-size: 1.8em;
         }
-
         .videos {
             background-color: rgb(233, 26, 222);
             padding: 20px;
         }
-
         .video-grid {
             display: flex;
             gap: 15px;
