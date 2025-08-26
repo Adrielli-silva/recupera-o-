@@ -1,17 +1,16 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport"content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8">
+    <meta name="viewport"content="width=device-width, initial-scale=1.0">
     <title>Geometria</title>
-</head>
+    <style>
         body {
             margin: 0;
             font-family: Arial, sans-serif;
             background-color: #1c1cf1;
             color: white;
         }
-
         header {
             background-color: rgb(169, 169, 230);
             padding: 20px;
@@ -19,8 +18,7 @@
             font-size: 2em;
             font-weight: bold;
         }
-
-        banner {
+        .banner {
             background-color: rgb(95, 30, 245);
             padding: 20px;
             display: flex;
@@ -28,7 +26,7 @@
             justify-content: space-around;
         }
 
-        banner h2 {
+        .banner h2 {
             color: cyan;
             font-size: 1.8em;
         }
@@ -43,7 +41,6 @@
             gap: 15px;
             flex-wrap: wrap;
         }
-
         .video-grid iframe {
             border: none;
         }
@@ -59,11 +56,9 @@
             <h2>O Melhor Conteúdo de Matemática</h2>
             <p>#matematica #aprendizado</p>
         </div>
-        <div>
             <iframe width="400" height="225"
                 src="https://www.youtube.com/watch?v=th5k6bzSDTA&t=24s"
                 title="Vídeo Principal" allowfullscreen></iframe>
-        </div>
     </section>
 
     <section class="videos">
